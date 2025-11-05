@@ -22,13 +22,12 @@ import {Firefly_6} from "@/components/models/Firefly_6";
 export default function ReactFiberPrac() {
   return (
     <div className="h-screen w-full flex items-center justify-end">
-      <Canvas >
-        {/* camera={{ position: [5, 5, 5], fov: 45 }} */}
-        {/* <ambientLight intensity={0.6} />
+      <Canvas camera={{ position: [5, 5, 5], fov: 45 }}>
+        <ambientLight intensity={0.6} />
         <directionalLight position={[10, 10, 5]} intensity={1} />
-        <OrbitControls enableDamping enableZoom /> */}
+        <OrbitControls enableDamping enableZoom />
 
-        {/* <Scene_1_Main_Land_trees /> */}
+        <Scene_1_Main_Land_trees />
         <Scene_1_Main_Land_1 />
         <Scene_1_Main_Land_2 />
         <Scene_1_Main_Land_3 />
