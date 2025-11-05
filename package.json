@@ -10,15 +10,22 @@
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",
+<<<<<<< HEAD
     "@react-three/drei": "^10.7.6",
     "@react-three/fiber": "^9.4.0",
+=======
+>>>>>>> 68ac4ebdf4d221b9d179d09f9eabad0e31fc5194
     "gsap": "^3.13.0",
     "locomotive-scroll": "^4.1.4",
     "next": "16.0.1",
     "react": "19.2.0",
     "react-dom": "19.2.0",
+<<<<<<< HEAD
     "react-responsive": "^10.0.1",
     "three": "^0.181.0"
+=======
+    "react-responsive": "^10.0.1"
+>>>>>>> 68ac4ebdf4d221b9d179d09f9eabad0e31fc5194
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -27,7 +34,10 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+<<<<<<< HEAD
     "@types/three": "^0.181.0",
+=======
+>>>>>>> 68ac4ebdf4d221b9d179d09f9eabad0e31fc5194
     "eslint": "^9",
     "eslint-config-next": "16.0.1",
     "tailwindcss": "^4",
